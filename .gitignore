@@ -1,0 +1,8 @@
+.vs
+Library
+Logs
+UserSettings
+Temp
+obj
+*.csproj
+*.meta
